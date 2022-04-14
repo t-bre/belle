@@ -34,6 +34,11 @@
 
 namespace BELLE_NAMESPACE {
 
+  using prim::String;
+  using prim::File;
+  using prim::int64;
+  using prim::Array;
+
   //Forward declarations
   struct Color;
 

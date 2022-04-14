@@ -36,6 +36,9 @@
 
 namespace BELLE_NAMESPACE
 {
+
+  using prim::Value;
+
   class Instruction
   {
     friend class Typeface;

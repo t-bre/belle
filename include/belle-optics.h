@@ -34,6 +34,10 @@
 
 namespace BELLE_NAMESPACE
 {
+
+  using prim::Line;
+  using prim::Value;
+
   struct Optics
   {
     /**Calculates the conservative distance two paths must be to not collide.

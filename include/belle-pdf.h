@@ -38,6 +38,8 @@
 
 namespace BELLE_NAMESPACE
 {
+  using prim::Time;
+
   /**Preliminary support for outputting Portable Document Files. The PDF class
   supports multiple pages and layers, and currently conforms to the
   PDF/X-1a:2001 standard (a subset of PDF tailored for reliable printing).*/

@@ -36,6 +36,9 @@
 
 namespace BELLE_NAMESPACE
 {
+  using prim::String;
+  using prim::JSON;
+
   class SVGHelper
   {
     public:

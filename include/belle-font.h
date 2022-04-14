@@ -37,6 +37,9 @@
 
 namespace BELLE_NAMESPACE
 {
+  using prim::Value;
+  using prim::JSON;
+
   ///A glyph stores a path as though it were a character from a typeface.
   class Glyph : public Path
   {

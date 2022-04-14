@@ -34,6 +34,8 @@
 
 namespace BELLE_NAMESPACE
 {
+  using prim::Random;
+  
   ///System-level generators that take in parameters.
   class SystemGenerators
   {
